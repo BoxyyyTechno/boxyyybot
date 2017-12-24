@@ -1,0 +1,12 @@
+{
+  "name": "boxyyybot",
+  "version": "0.0.1",
+  "description": "BoxyyyDiscordBot",
+  "main": "boxyyybot.js",
+  "author": "boxyyy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "mysql": "^2.15.0"
+  }
+}
