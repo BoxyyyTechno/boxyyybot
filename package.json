@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "BoxyyyDiscordBot",
   "main": "boxyyybot.js",
+  "scripts": {
+    "start": "node botboxyyy.js"
+  },
   "author": "boxyyy",
   "license": "ISC",
   "dependencies": {
