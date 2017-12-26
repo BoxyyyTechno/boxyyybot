@@ -15,7 +15,7 @@ bot.on('ready', () => {
 
 bot.on('message', message => {
 
-  if (message.content === "!Merhaba") {
+  if (message.content === "!merhaba") {
     message.reply.sendMessage('Merhaba, Hoş geldiniz!');
   }
   
